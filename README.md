@@ -1,4 +1,4 @@
-## Angry AI - [Video](https://www.youtube.com/watch?v=7YYwERuy-w4)
+## Hierarchical RL Robots - [Video](https://www.youtube.com/watch?v=7YYwERuy-w4)
 
 This is a little robot battle simulation, made with [Unity Machine Learning Agents](https://github.com/Unity-Technologies/ml-agents).
 
